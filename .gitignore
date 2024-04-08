@@ -1,0 +1,7 @@
+/.vscode
+/catboost_info
+/data
+/mlruns
+/model
+/preprocessing_pipeline.pkl
+/__pycache__
